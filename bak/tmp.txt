@@ -1,0 +1,66 @@
+$VAR1 = {
+          'weaponList' => "3\x{22a0}Greataxe\x{22a0}5 feet\x{22a0}1202\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}true\x{22a0}true\x{22a0}1\x{22a0}1\x{22a0}12\x{22a0}Handaxe\x{22a0}20/60\x{22a0}1102\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}true\x{22a0}true\x{22a0}1\x{22a0}1\x{22a0}6\x{22a0}Javelin\x{22a0}30/120\x{22a0}1101\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}true\x{22a0}true\x{22a0}1\x{22a0}1\x{22a0}6",
+          'skillInfo' => "true\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}true\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}true\x{22a0}true\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}true\x{22a0}true\x{22a0}0\x{fffd}\x{fffd}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}true\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false",
+          'version' => '1',
+          'pagePosition1' => '2',
+          'shieldBonus' => '0',
+          'offenseAbilityDisplay' => '0',
+          'deathSaveFailures' => '0',
+          'currentHealth' => '13',
+          'subraceCode' => '-1',
+          'pagePosition3' => '4',
+          'featCode' => {},
+          'baseSpeed' => 30,
+          'classData' => "Barbarian\x{22a1}\x{22a1}1\x{22a1}-1\x{229f}\x{22a0}Unarmored Defense\x{229f}Resource\x{22a1}Resource\x{22a1}0\x{22a1}0\x{22a1}0\x{22a1}2\x{22a1}0\x{22a1}0\x{22a1}-1\x{22a1}0\x{22a0}Rage\x{22a1}\x{22a1}2\x{22a1}2\x{22a1}0\x{22a1}2\x{22a1}0\x{22a1}0\x{22a1}303\x{22a1}0\x{229f}\x{22a0}Alert\x{229f}\x{229f}\x{229f}\x{229f}Human\x{229f}Human Variant\x{229f}Guild Artisan\x{229f}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}\x{229f}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}\x{229f}20\x{22a0}20\x{22a0}20\x{22a0}20\x{22a0}20\x{22a0}20\x{22a0}\x{229f}3\x{229f}2\x{229f}0\x{229f}1\x{229f}1\x{229f}0",
+          'improvedInitiative' => '0',
+          'abilityScores' => "16\x{22a0}14\x{22a0}13\x{22a0}12\x{22a0}10\x{22a0}9\x{22a0}true\x{22a0}false\x{22a0}true\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0",
+          'pagePosition0' => '1',
+          'backgroundCode' => '-1',
+          'spellList' => "v1.1\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}\x{e2}\x{8a}\x{9f}",
+          'maxDex' => '10',
+          'raceCode' => '-1',
+          'hitDiceList' => "1\x{e2}\x{8a}\x{a0}1\x{e2}\x{8a}\x{a0}12\x{e2}\x{8a}\x{a0}1",
+          'miscSpellAttackBonus' => '0',
+          'miscArmorBonus' => 0,
+          'showDeathSaves' => 'true',
+          'maxHealth' => '13',
+          'movementMode' => 'Speed',
+          'speedMiscMod' => 0,
+          'multiclassFeatures' => {},
+          'noteList' => "Human Features:
+\x{e2}\x{80}\x{a2} One extra skill proficiency of your choosing
+\x{e2}\x{80}\x{a2} One bonus feat of your choosing
+Guild Artisan Feature:
+\x{e2}\x{80}\x{a2} While you are in good standing with your guild, your guild can gain you access to powerful politicians
+Barbarian Features:
+\x{e2}\x{80}\x{a2} 2/day you gain advantage on Str checks and saves, deal +2 damage on strength based melee attacks, and resistance vs bludgeoning, piercing, and slashing damage
+\x{e2}\x{80}\x{a2} Add Con mod to AC when not wearing armor
+\x{e2}\x{80}\x{a2} Alert: You don't grant advantage vs hidden creatures, you are never surprised, and you gain +5 to initiative
+\x{e2}\x{8a}\x{a0}Light Armor, Medium Armor, Shields
+\x{e2}\x{8a}\x{a0}Simple Weapons, Martial Weapons
+\x{e2}\x{8a}\x{a0}One type of artisan's tools
+\x{e2}\x{8a}\x{a0}Common
+Extra Language
+One Extra Language
+\x{e2}\x{8a}\x{a0}greataxe
+handaxe (2)
+javelin (4)
+explorer's pack
+set of artisan's tools of your choice
+letter of introduction
+set of bone dice OR deck of cards
+set of traveler's clothes
+belt pouche
+\x{e2}\x{8a}\x{a0}Notes\x{e2}\x{8a}\x{a0}Barbarian 1\x{e2}\x{8a}\x{a0}Human\x{e2}\x{8a}\x{a0}Guild Artisan\x{e2}\x{8a}\x{a0}Neutral\x{e2}\x{8a}\x{a0}Trait\x{e2}\x{8a}\x{a0}Ideal\x{e2}\x{8a}\x{a0}Bonds\x{e2}\x{8a}\x{a0}Flaws\x{e2}\x{8a}\x{a0}Test Char\x{e2}\x{8a}\x{a0}Barbarian 1\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}15\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0",
+          'currentTempHP' => '0',
+          'deathSaveSuccesses' => '0',
+          'classResource' => "-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}1\x{e2}\x{8a}\x{a0}2\x{e2}\x{8a}\x{a0}1000\x{e2}\x{8a}\x{a0}3\x{e2}\x{8a}\x{a0}4\x{e2}\x{8a}\x{a0}5",
+          'miscSpellDCBonus' => '0',
+          'pagePosition4' => '5',
+          'pagePosition2' => '3',
+          'proficiencyBonus' => '2',
+          'armorBonus' => 10,
+          'unarmoredDefense' => '3',
+          'castingStatCode' => '3',
+          'initMiscMod' => 5
+        };

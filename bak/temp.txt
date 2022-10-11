@@ -1,0 +1,119 @@
+$VAR1 = {
+          'subraceCode' => '-1',
+          'abilityScores' => "10\x{22a0}14\x{22a0}14\x{22a0}10\x{22a0}10\x{22a0}18\x{22a0}false\x{22a0}false\x{22a0}true\x{22a0}false\x{22a0}false\x{22a0}true\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0",
+          'proficiencyBonus' => '2',
+          'castingStatCode' => '5',
+          'currentHealth' => '26',
+          'miscArmorBonus' => '3',
+          'classResource' => "-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}-1\x{e2}\x{8a}\x{a0}1\x{e2}\x{8a}\x{a0}2\x{e2}\x{8a}\x{a0}1000\x{e2}\x{8a}\x{a0}3\x{e2}\x{8a}\x{a0}4\x{e2}\x{8a}\x{a0}5",
+          'speedMiscMod' => '0',
+          'deathSaveFailures' => '0',
+          'deathSaveSuccesses' => '0',
+          'backgroundCode' => '-1',
+          'initMiscMod' => '0',
+          'miscSpellDCBonus' => '0',
+          'version' => '1',
+          'currentTempHP' => '0',
+          'featCode' => {},
+          'pagePosition0' => '1',
+          'offenseAbilityDisplay' => '5',
+          'maxDex' => '10',
+          'weaponList' => "2\x{22a0}Crossbow, light\x{22a0}80/320\x{22a0}2201\x{22a0}1\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}true\x{22a0}true\x{22a0}1\x{22a0}1\x{22a0}8\x{22a0}Dagger\x{22a0}20/60\x{22a0}1101\x{22a0}1\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}true\x{22a0}true\x{22a0}1\x{22a0}1\x{22a0}4",
+          'improvedInitiative' => '0',
+          'showDeathSaves' => 'true',
+          'spellList' => "v1.1\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}\x{e2}\x{8a}\x{a0}true\x{e2}\x{8a}\x{a1}true\x{e2}\x{8a}\x{a1}true\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}false\x{e2}\x{8a}\x{a1}\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{a1}\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}4\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{9f}Light\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{9f}Acid Splash\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{9f}Shocking Grasp\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{9f}Mage Hand\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}0\x{e2}\x{8a}\x{9f}Message\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}1\x{e2}\x{8a}\x{9f}Thunderwave \x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}1\x{e2}\x{8a}\x{9f}Mage Armor\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}1\x{e2}\x{8a}\x{9f}Shield\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}1\x{e2}\x{8a}\x{9f}Magic Missle\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}2\x{e2}\x{8a}\x{9f}Shatter\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}\x{e2}\x{8a}\x{9f}true\x{e2}\x{8a}\x{9f}0\x{e2}\x{8a}\x{a1}",
+          'pagePosition1' => '2',
+          'pagePosition3' => '4',
+          'miscSpellAttackBonus' => '0',
+          'skillInfo' => "false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}true\x{22a0}true\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}false\x{22a0}true\x{22a0}false\x{22a0}true\x{22a0}false\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false\x{e2}\x{8a}\x{a0}false",
+          'classData' => "Sorcerer\x{22a1}Wild Magic\x{22a1}4\x{22a1}0\x{229f}\x{229f}Sorcery Points\x{22a1}Sorcery Pts\x{22a1}4\x{22a1}0\x{22a1}0\x{22a1}2\x{22a1}0\x{22a1}0\x{22a1}303\x{22a1}0\x{22a0}Resource\x{22a1}\x{22a1}0\x{22a1}0\x{22a1}0\x{22a1}2\x{22a1}0\x{22a1}0\x{22a1}-1\x{22a1}0\x{229f}\x{229f}metamagic\x{22a1}Subtle Spell\x{22a1}Careful Spell\x{229f}\x{229f}\x{229f}Aasimar\x{229f}Protector Aasimar\x{229f}Noble\x{229f}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}\x{229f}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}0\x{22a0}\x{229f}20\x{22a0}20\x{22a0}20\x{22a0}20\x{22a0}20\x{22a0}20\x{22a0}\x{229f}0\x{229f}2\x{229f}0\x{229f}1\x{229f}1\x{229f}1",
+          'multiclassFeatures' => {},
+          'pagePosition2' => '3',
+          'unarmoredDefense' => '0',
+          'armorBonus' => '10',
+          'hitDiceList' => "1\x{e2}\x{8a}\x{a0}4\x{e2}\x{8a}\x{a0}6\x{e2}\x{8a}\x{a0}3",
+          'movementMode' => 'Speed',
+          'maxHealth' => '26',
+          'pagePosition4' => '5',
+          'raceCode' => '-1',
+          'baseSpeed' => '30',
+          'noteList' => "Aasimar Features:
+\x{e2}\x{80}\x{a2} Within 60 feet of you, treat dim light as bright, darkness as dim light
+\x{e2}\x{80}\x{a2} Gain radiant and necrotic resistance
+\x{e2}\x{80}\x{a2} You can heal a creature your level hit points with a touch as an action (1/day)
+\x{e2}\x{80}\x{a2} Can cast the light cantrip
+\x{e2}\x{80}\x{a2} At 3rd level you can gain a 30 foot fly speed and deal your level in radiant damage to one spell or attack target each turn for 1 minute as an action (1/day)
+Noble Feature:
+\x{e2}\x{80}\x{a2} Three retainers that follow. 
+Sorcerer Features:
+\x{e2}\x{80}\x{a2} Sorcerer Archetype: Wild
+\x{e2}\x{80}\x{a2} You can randomly cause a wild magic surge after casting a 1st level or higher spell
+\x{e2}\x{80}\x{a2} Gain advantage on one attack roll, saving throw or ability check per day
+\x{e2}\x{80}\x{a2} You have a max of 4 sorcery points used to alter spells and regain spell slots
+\x{e2}\x{80}\x{a2} Quicken spell
+\x{e2}\x{80}\x{a2} Careful Spell: You can cause up to Cha mod creatures to pass your spell's save for 1 sorcery point
+\x{e2}\x{8a}\x{a0}\x{e2}\x{8a}\x{a0}Daggers, Darts, Slings, Quarterstaffs, Light Crossbows
+\x{e2}\x{8a}\x{a0}Dragon Chess
+\x{e2}\x{8a}\x{a0}Common
+Celestial
+Elvish
+\x{e2}\x{8a}\x{a0}light crossbow
+dagger (2)
+bolts (20)
+arcane focus
+dungeoneer's pack
+set of fine clothes
+signet ring
+scroll of pedigree
+purse
+
+1x healing potion
+\x{e2}\x{8a}\x{a0}Boots of the Vind Rune
+Boots/Cloak. The pair of boots or cloak is now a rare magic item that requires attunement. While wearing the item, you can convert up to 20  et of your movement \x{c2}\x{ad}on each of your turns into  flight. If you don't land at the end of this  flight, you  fall unless you have an\x{c2}\x{ad} other means of staying aloft . You can also cast featherfall   once  from the item, and you regain the ability to do so when you  finish a short or long rest.
+
+Ring of Spell Storing 
+Ring, Rare (requires attunement)
+This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 - 1 levels of stored spells chosen by the GM.
+Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
+While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
+
+Mage Armor x0
+Shield x4
+
+Retainers named Albert, James, and Harris. 
+
+In Volos wake. 
+100xp
+5dt
+1rn
+20g
+
+300xp
+5dt
+1rn
+20g
+
+400xp
+5dt
+1 rn
+50g
+
+1275xp
+37g
+1rn
+5dt
+
+Satyr Training SA
+
+
+
+Tinuses his roots run deep. Story award
+Sildar Hallwinter
+
+
+Circlet of Blasting
+
+
+\x{e2}\x{8a}\x{a0}Sorcerer 4\x{e2}\x{8a}\x{a0}Protector Aasimar\x{e2}\x{8a}\x{a0}Noble\x{e2}\x{8a}\x{a0}N\x{e2}\x{8a}\x{a0}Excitable, one-track minded.\x{e2}\x{8a}\x{a0}Exploration is everything. Discovery of the past is much more important than the present.\x{e2}\x{8a}\x{a0}Loyal member of the Grand Society of Explorer's in Waterdeep.\x{e2}\x{8a}\x{a0}Little concerned about his long suffering retainers, or really anyone else around him. Stuff (aka wild magic) happens.\x{e2}\x{8a}\x{a0}Amelius Bombastion\x{e2}\x{8a}\x{a0}Sorcerer 4\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}421\x{e2}\x{8a}\x{a0}0\x{e2}\x{8a}\x{a0}1483",
+          'shieldBonus' => '0'
+        };

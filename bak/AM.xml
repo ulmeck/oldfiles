@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<character>
+<version>1</version>
+<initMiscMod>0</initMiscMod>
+<improvedInitiative>0</improvedInitiative>
+<currentHealth>26</currentHealth>
+<maxHealth>26</maxHealth>
+<currentTempHP>0</currentTempHP>
+<armorBonus>10</armorBonus>
+<shieldBonus>0</shieldBonus>
+<miscArmorBonus>3</miscArmorBonus>
+<maxDex>10</maxDex>
+<proficiencyBonus>2</proficiencyBonus>
+<miscSpellAttackBonus>0</miscSpellAttackBonus>
+<miscSpellDCBonus>0</miscSpellDCBonus>
+<castingStatCode>5</castingStatCode>
+<offenseAbilityDisplay>5</offenseAbilityDisplay>
+<deathSaveSuccesses>0</deathSaveSuccesses>
+<deathSaveFailures>0</deathSaveFailures>
+<showDeathSaves>true</showDeathSaves>
+<baseSpeed>30</baseSpeed>
+<speedMiscMod>0</speedMiscMod>
+<movementMode>Speed</movementMode>
+<raceCode>-1</raceCode>
+<subraceCode>-1</subraceCode>
+<backgroundCode>-1</backgroundCode>
+<pagePosition0>1</pagePosition0>
+<pagePosition1>2</pagePosition1>
+<pagePosition2>3</pagePosition2>
+<pagePosition3>4</pagePosition3>
+<pagePosition4>5</pagePosition4>
+<unarmoredDefense>0</unarmoredDefense>
+<featCode></featCode>
+<classData>Sorcerer⊡Wild Magic⊡4⊡0⊟⊟Sorcery Points⊡Sorcery Pts⊡4⊡0⊡0⊡2⊡0⊡0⊡303⊡0⊠Resource⊡⊡0⊡0⊡0⊡2⊡0⊡0⊡-1⊡0⊟⊟metamagic⊡Subtle Spell⊡Careful Spell⊟⊟⊟Aasimar⊟Protector Aasimar⊟Noble⊟0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠⊟0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠⊟20⊠20⊠20⊠20⊠20⊠20⊠⊟0⊟2⊟0⊟1⊟1⊟1</classData>
+<multiclassFeatures></multiclassFeatures>
+<weaponList>2⊠Crossbow, light⊠80/320⊠2201⊠1⊠0⊠0⊠0⊠0⊠true⊠true⊠1⊠1⊠8⊠Dagger⊠20/60⊠1101⊠1⊠0⊠0⊠0⊠0⊠true⊠true⊠1⊠1⊠4</weaponList>
+<abilityScores>10⊠14⊠14⊠10⊠10⊠18⊠false⊠false⊠true⊠false⊠false⊠true⊠0⊠0⊠0⊠0⊠0⊠0⊠0</abilityScores>
+<skillInfo>false⊠false⊠false⊠false⊠true⊠true⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠true⊠false⊠true⊠false⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false</skillInfo>
+<spellList>v1.1⊠0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡⊠true⊡true⊡true⊡false⊡false⊡false⊡false⊡false⊡false⊡false⊡⊠0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡⊠0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡⊠0⊠4⊠false⊠0⊟Light⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Acid Splash⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Shocking Grasp⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Mage Hand⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Message⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟Thunderwave ⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟Mage Armor⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟Shield⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟Magic Missle⊟⊟⊟⊟⊟⊟true⊟0⊡2⊟Shatter⊟⊟⊟⊟⊟⊟true⊟0⊡</spellList>
+<noteList>Aasimar Features:
+• Within 60 feet of you, treat dim light as bright, darkness as dim light
+• Gain radiant and necrotic resistance
+• You can heal a creature your level hit points with a touch as an action (1/day)
+• Can cast the light cantrip
+• At 3rd level you can gain a 30 foot fly speed and deal your level in radiant damage to one spell or attack target each turn for 1 minute as an action (1/day)
+Noble Feature:
+• Three retainers that follow. 
+Sorcerer Features:
+• Sorcerer Archetype: Wild
+• You can randomly cause a wild magic surge after casting a 1st level or higher spell
+• Gain advantage on one attack roll, saving throw or ability check per day
+• You have a max of 4 sorcery points used to alter spells and regain spell slots
+• Quicken spell
+• Careful Spell: You can cause up to Cha mod creatures to pass your spell's save for 1 sorcery point
+⊠⊠Daggers, Darts, Slings, Quarterstaffs, Light Crossbows
+⊠Dragon Chess
+⊠Common
+Celestial
+Elvish
+⊠light crossbow
+dagger (2)
+bolts (20)
+arcane focus
+dungeoneer's pack
+set of fine clothes
+signet ring
+scroll of pedigree
+purse
+
+1x healing potion
+⊠Boots of the Vind Rune
+Boots/Cloak. The pair of boots or cloak is now a rare magic item that requires attunement. While wearing the item, you can convert up to 20  et of your movement ­on each of your turns into  flight. If you don't land at the end of this  flight, you  fall unless you have an­ other means of staying aloft . You can also cast featherfall   once  from the item, and you regain the ability to do so when you  finish a short or long rest.
+
+Ring of Spell Storing 
+Ring, Rare (requires attunement)
+This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 - 1 levels of stored spells chosen by the GM.
+Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
+While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
+
+Mage Armor x0
+Shield x4
+
+Retainers named Albert, James, and Harris. 
+
+In Volos wake. 
+100xp
+5dt
+1rn
+20g
+
+300xp
+5dt
+1rn
+20g
+
+400xp
+5dt
+1 rn
+50g
+
+1275xp
+37g
+1rn
+5dt
+
+Satyr Training SA
+
+
+
+Tinuses his roots run deep. Story award
+Sildar Hallwinter
+
+
+Circlet of Blasting
+
+
+⊠Sorcerer 4⊠Protector Aasimar⊠Noble⊠N⊠Excitable, one-track minded.⊠Exploration is everything. Discovery of the past is much more important than the present.⊠Loyal member of the Grand Society of Explorer's in Waterdeep.⊠Little concerned about his long suffering retainers, or really anyone else around him. Stuff (aka wild magic) happens.⊠Amelius Bombastion⊠Sorcerer 4⊠0⊠0⊠0⊠421⊠0⊠1483</noteList>
+<hitDiceList>1⊠4⊠6⊠3</hitDiceList>
+<classResource>-1⊠-1⊠-1⊠-1⊠-1⊠-1⊠1⊠2⊠1000⊠3⊠4⊠5</classResource>
+</character>

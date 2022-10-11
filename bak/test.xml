@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<character>
+<version>1</version>
+<initMiscMod>5</initMiscMod>
+<improvedInitiative>0</improvedInitiative>
+<currentHealth>13</currentHealth>
+<maxHealth>13</maxHealth>
+<currentTempHP>0</currentTempHP>
+<armorBonus>10</armorBonus>
+<shieldBonus>0</shieldBonus>
+<miscArmorBonus>0</miscArmorBonus>
+<maxDex>10</maxDex>
+<proficiencyBonus>2</proficiencyBonus>
+<miscSpellAttackBonus>0</miscSpellAttackBonus>
+<miscSpellDCBonus>0</miscSpellDCBonus>
+<castingStatCode>3</castingStatCode>
+<offenseAbilityDisplay>0</offenseAbilityDisplay>
+<deathSaveSuccesses>0</deathSaveSuccesses>
+<deathSaveFailures>0</deathSaveFailures>
+<showDeathSaves>true</showDeathSaves>
+<baseSpeed>30</baseSpeed>
+<speedMiscMod>0</speedMiscMod>
+<movementMode>Speed</movementMode>
+<raceCode>-1</raceCode>
+<subraceCode>-1</subraceCode>
+<backgroundCode>-1</backgroundCode>
+<pagePosition0>1</pagePosition0>
+<pagePosition1>2</pagePosition1>
+<pagePosition2>3</pagePosition2>
+<pagePosition3>4</pagePosition3>
+<pagePosition4>5</pagePosition4>
+<unarmoredDefense>3</unarmoredDefense>
+<featCode></featCode>
+<classData>Barbarian⊡⊡1⊡-1⊟⊠Unarmored Defense⊟Resource⊡Resource⊡0⊡0⊡0⊡2⊡0⊡0⊡-1⊡0⊠Rage⊡⊡2⊡2⊡0⊡2⊡0⊡0⊡303⊡0⊟⊠Alert⊟⊟⊟⊟Human⊟Human Variant⊟Guild Artisan⊟0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠⊟0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠⊟20⊠20⊠20⊠20⊠20⊠20⊠⊟0⊟2⊟0⊟1⊟1⊟0</classData>
+<multiclassFeatures></multiclassFeatures>
+<weaponList>6⊠Greataxe⊠5 feet⊠1202⊠0⊠11⊠12⊠13⊠14⊠true⊠true⊠4⊠1⊠12⊠1⊠6⊠1⊠6⊠1⊠6⊠Handaxe⊠20/60⊠1102⊠0⊠0⊠0⊠0⊠0⊠true⊠true⊠1⊠1⊠6⊠Javelin⊠30/120⊠1101⊠0⊠0⊠0⊠0⊠0⊠true⊠true⊠1⊠1⊠6⊠Sling⊠30/120⊠2100⊠1⊠0⊠0⊠0⊠0⊠true⊠true⊠1⊠1⊠4⊠Rapier⊠5 feet⊠1101⊠1⊠0⊠0⊠0⊠0⊠true⊠true⊠1⊠1⊠8⊠Club⊠5 feet⊠1111⊠0⊠0⊠0⊠0⊠0⊠true⊠true⊠1⊠1⊠4</weaponList>
+<abilityScores>16⊠14⊠13⊠12⊠10⊠9⊠true⊠false⊠true⊠false⊠false⊠false⊠0⊠0⊠0⊠0⊠0⊠0⊠0</abilityScores>
+<skillInfo>true⊠false⊠false⊠false⊠true⊠false⊠false⊠false⊠false⊠true⊠true⊠false⊠false⊠false⊠false⊠false⊠false⊠true⊠false⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false</skillInfo>
+<spellList>v1.1⊠0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡⊠false⊡false⊡false⊡false⊡false⊡false⊡false⊡false⊡false⊡false⊡⊠0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡⊠0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡0⊡⊠-1⊠0⊠false⊠⊟</spellList>
+<noteList>Human Features:
+• One extra skill proficiency of your choosing
+• One bonus feat of your choosing
+Guild Artisan Feature:
+• While you are in good standing with your guild, your guild can gain you access to powerful politicians
+Barbarian Features:
+• 2/day you gain advantage on Str checks and saves, deal +2 damage on strength based melee attacks, and resistance vs bludgeoning, piercing, and slashing damage
+• Add Con mod to AC when not wearing armor
+• Alert: You don't grant advantage vs hidden creatures, you are never surprised, and you gain +5 to initiative
+⊠Light Armor, Medium Armor, Shields
+⊠Simple Weapons, Martial Weapons
+⊠One type of artisan's tools
+⊠Common
+Extra Language
+One Extra Language
+⊠greataxe
+handaxe (2)
+javelin (4)
+explorer's pack
+set of artisan's tools of your choice
+letter of introduction
+set of bone dice OR deck of cards
+set of traveler's clothes
+belt pouche
+⊠Notes⊠Barbarian 1⊠Human⊠Guild Artisan⊠Neutral⊠Trait⊠Ideal⊠Bonds⊠Flaws⊠Test Char⊠Barbarian 1⊠0⊠0⊠0⊠15⊠0⊠0</noteList>
+<hitDiceList>1⊠1⊠12⊠1</hitDiceList>
+<classResource>-1⊠-1⊠-1⊠-1⊠-1⊠-1⊠1⊠2⊠1000⊠3⊠4⊠5</classResource>
+</character>

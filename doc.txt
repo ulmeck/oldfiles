@@ -1,0 +1,163 @@
+Fields
+
+Page 1
+
+CharacterName		Char Name
+
+ProfBonus				Proficiency Bonus
+ClassLevel			Class & Level
+Background			Background
+PlayerName			Player Name
+XP							Experiance
+Race						Race
+Alignment				Alignment
+STR							STR
+ST_Strength			Strength Saving Throw
+STRmod					Strength mod
+DEX							DEX
+ST_Dexterity		Dexterity Saving Throw
+DEXmod					Dex mod
+CON							CON
+ST_Constitution	CON Saving Throw
+CONmod					Con mod
+INT							INT
+ST_Intelligence	INT Saving Throw
+INTmod					Int mod
+WIS							WIS
+ST_Wisdom				WIS Saving Throw
+WISmod					Wis mod
+CHA							CHA
+ST_Charisma			CHA Saving Throw
+CHAmod					Cha mod
+
+Proficiencies checkboxes
+Prof_<NAME>
+
+
+Passive							Passive Perception
+ProfLang		Other Profs and Languages
+
+
+Acrobatics
+Animal
+Arcana
+Athletics
+Deception
+History
+Insight
+Intimidation
+Investigation
+Medicine
+Nature
+Perception
+Performance
+Persuasion
+Religion
+SleightofHand
+Stealth
+Survival
+
+AC
+Initiative
+Speed
+HPMax
+
+HD						Hit Dice
+
+
+Wpn1_Name
+Wpn1_AtkBonus
+Wpn1_Damage
+Wpn2_Name
+Wpn2_AtkBonus
+Wpn2_Damage
+Wpn3_Name
+Wpn3_AtkBonus
+Wpn3_Damage
+
+AttacksSpellcasting				Generic weapon/spell field text box
+
+
+
+
+CP							money
+SP
+EP
+GP
+PP
+Equipment
+
+PersonalityTraits
+Ideals
+Bonds
+Flaws
+
+Feat_Traits				Features and Traits
+
+
+Page 2
+
+
+CharacterName2			Character Name
+Age
+Eyes
+Height
+Skin
+Weight
+Hair
+
+Allies					
+FactionName
+
+Backstory
+Add_Feat_Traits Might be reversed from above
+Treasure
+
+
+
+
+Page 3
+
+Spellcasting_Class
+SpellcastingAbility
+SpellSaveDC
+AttacksSpellcasting
+
+
+Cantrips		S0-01 - S0-08
+
+1st lvl			S1_Slots	S1-01 - S1-12
+2nd lvl			S2_Slots	S2-01 - S2-13
+3rd lvl			S3_Slots	S3-01 - S3-13
+4th lvl			S4_Slots	S4-01 - S4-13
+5th lvl			S5_Slots	S5-01 - S5-09
+6th lvl			S6_Slots	S6-01 - S2-09
+7th lvl			S7_Slots	S7-01 - S2-09
+8th lvl			S8_Slots	S8-01 - S2-07
+9th lvl			S9_Slots	S9-01 - S2-07
+
+
+
+
+
+
+
+
+
+
+
+Delimters:
+
+⊠				U+22A0, &#8864;, &#x22A0;, %E2%8A%A0, \u22A0
+⊡				U+22A1, &#8865;, &#x22A1;, %E2%8A%A1, \u22A1
+⊟				U+229F, &#8863;, &#x229F;, %E2%8A%9F, \u229F
+
+
+
+
+
+
+
+
+
+

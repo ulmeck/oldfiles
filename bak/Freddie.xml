@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<character>
+<version>1</version>
+<initMiscMod>2</initMiscMod>
+<improvedInitiative>0</improvedInitiative>
+<currentHealth>120</currentHealth>
+<maxHealth>120</maxHealth>
+<currentTempHP>0</currentTempHP>
+<armorBonus>13</armorBonus>
+<shieldBonus>0</shieldBonus>
+<miscArmorBonus>3</miscArmorBonus>
+<maxDex>10</maxDex>
+<proficiencyBonus>6</proficiencyBonus>
+<miscSpellAttackBonus>0</miscSpellAttackBonus>
+<miscSpellDCBonus>0</miscSpellDCBonus>
+<castingStatCode>5</castingStatCode>
+<offenseAbilityDisplay>1</offenseAbilityDisplay>
+<deathSaveSuccesses>0</deathSaveSuccesses>
+<deathSaveFailures>0</deathSaveFailures>
+<showDeathSaves>true</showDeathSaves>
+<baseSpeed>30</baseSpeed>
+<speedMiscMod>0</speedMiscMod>
+<movementMode>Speed</movementMode>
+<raceCode>-543</raceCode>
+<subraceCode>1</subraceCode>
+<backgroundCode>1001</backgroundCode>
+<pagePosition0>1</pagePosition0>
+<pagePosition1>2</pagePosition1>
+<pagePosition2>3</pagePosition2>
+<pagePosition3>4</pagePosition3>
+<pagePosition4>5</pagePosition4>
+<unarmoredDefense>0</unarmoredDefense>
+<featCode>30,4,33</featCode>
+<classData>Rogue⊡Arcane Trickster⊡4⊡2⊠Warlock⊡The Great Old One⊡12⊡3⊠Fighter⊡Champion⊡3⊡-1⊟Pact of the Blade⊟Sneak⊡Sneak⊡2⊡2⊡6⊡0⊡0⊡0⊡303⊡0⊠Action Surge⊡Act. Surge⊡1⊡1⊡0⊡2⊡0⊡0⊡-1⊡0⊟Ritual Caster⊠Crossbow Expert⊠Sharpshooter⊟eldritch invocations⊡Eldritch Sight⊡Thirsting Blade⊡Misty Visions⊡Eyes of the Rune Keeper⊡Ascendant Step⊡Lifedrinker⊠expertise⊡Investigation⊡Persuasion⊠fighting style⊡Archery⊟⊟⊟Human⊟Human Variant⊟⊟0⊠0⊠2⊠0⊠0⊠0⊠0⊠0⊠0⊠⊟0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠⊟20⊠20⊠20⊠20⊠20⊠20⊠⊟0⊟2⊟0⊟1⊟1⊟1</classData>
+<multiclassFeatures>4,2,2,2,0,6,17,8,11,2,1,4,1,10,27,20,21</multiclassFeatures>
+<weaponList>4⊠Dagger (x3) ⊠20/60⊠1⊠1⊠0⊠0⊠0⊠0⊠true⊠true⊠1⊠1⊠4⊠Staff Of Power⊠5 feet⊠1100⊠0⊠2⊠0⊠2⊠0⊠true⊠true⊠1⊠1⊠6⊠Hand Crossbow +3⊠30/120⊠2101⊠1⊠3⊠0⊠3⊠3⊠true⊠true⊠1⊠1⊠6⊠HD Crossbow (SS) +3⊠30/120⊠2101⊠1⊠3⊠-5⊠3⊠13⊠true⊠true⊠1⊠1⊠6</weaponList>
+<abilityScores>8⊠20⊠12⊠13⊠8⊠16⊠false⊠true⊠false⊠true⊠false⊠false⊠3⊠3⊠3⊠3⊠3⊠3⊠0</abilityScores>
+<skillInfo>false⊠false⊠false⊠false⊠false⊠true⊠true⊠false⊠false⊠false⊠true⊠false⊠false⊠true⊠true⊠true⊠false⊠true⊠false⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠0⊠false⊠false⊠false⊠false⊠false⊠false⊠true⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠true⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false⊠false</skillInfo>
+<spellList>v1.1⊠0⊡6⊡0⊡0⊡0⊡3⊡1⊡0⊡0⊡0⊡⊠true⊡true⊡true⊡true⊡true⊡true⊡true⊡false⊡false⊡false⊡⊠3⊡-1⊡-1⊡-1⊡3⊡1⊡0⊡0⊡0⊡⊠3⊡-1⊡-1⊡0⊡3⊡0⊡0⊡0⊡0⊡⊠2⊠4⊠false⊠0⊟*Create Bonfire⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Prestidigitation⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟*Detect Magic (Invo) ⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Minor Illusion⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Disguise Self (Invo) ⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Mending (AT) ⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Mage Hand (AT) ⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟Chill Touch (AT) ⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟*Levitate (Invo) ⊟⊟⊟⊟⊟⊟true⊟0⊡0⊟True Strike⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟*Hex (1d6)⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟Find Familiar (Ritual) ⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟Unseen Servant (Ritual) ⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟Shield (AT) ⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟*Charm Person (AT) ⊟⊟⊟⊟⊟⊟true⊟0⊡1⊟*Sleep (AT) ⊟⊟⊟⊟⊟⊟true⊟0⊡2⊟Mirror Image⊟⊟⊟⊟⊟⊟true⊟0⊡2⊟*Detect Thoughts ⊟⊟⊟⊟⊟⊟true⊟0⊡3⊟Counterspell⊟⊟⊟⊟⊟⊟true⊟0⊡3⊟Dispell Magic⊟⊟⊟⊟⊟⊟true⊟0⊡3⊟*Hypnotic Pattern⊟⊟⊟⊟⊟⊟true⊟0⊡4⊟*Evards Black Tentacles ⊟⊟⊟⊟⊟⊟true⊟0⊡4⊟*Banishment⊟⊟⊟⊟⊟⊟true⊟0⊡5⊟*Hold Monster⊟⊟⊟⊟⊟⊟true⊟0⊡5⊟*Telekinesis⊟⊟⊟⊟⊟⊟true⊟0⊡5⊟*Scrying⊟⊟⊟⊟⊟⊟true⊟0⊡6⊟Mass Suggestion⊟⊟⊟⊟⊟⊟true⊟0⊡</spellList>
+<noteList>Feature: Heart of Darkness
+Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to
+help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone.
+
+Human Features:
+• One extra skill proficiency of your choosing
+• One bonus feat of your choosing
+Class Features:
+• Double proficiency with chosen skills/tools (Investigation, Persuasion)
+• Sneak Attack (2d6)
+• Understand a secret language
+• Ritual Caster: You can cast spells as rituals (see rules)
+• Warlock Archetype: Great Old One
+• You can telepathically communicate with any creature knows any language within 30 feet
+• Detect Magic Expert: You don't use a spell slot when casting detect magic
+• Blade - You gain the ability to conjure a magical weapon (see rules)
+• Crossbow Expert: You don't have disadvantage from adjacent enemies on ranged attacks, you can load crossbows faster, and you can make a bonus action attack with a hand crossbow after attacking with a one-handed weapon
+• Extra Attack: You can make two attacks with your pact weapon as an action
+• When attacked you can use a reaction to inflict disadvantage, and on a miss gain advantage on your next attack against that creature (once between rests)
+• You can dash, disengage, or hide as a bonus action
+• Rogue Archetype: Arcane Trickster
+• Special abilities with mage hand (see rules)
+• Sharpshooter: Your ranged attacks ignore ½ and ¾ cover, don't have disadvantage from long range, and you can take -5 to a ranged attack for +10 damage
+• Disguise Self Invocation
+• True Reading: You can read any written language
+• You gain resistance vs psychic, if you take psychic damage the attacker takes the same damage, and your thoughts can't be read
+• Gain one 6th level spell that can be cast 1/day
+• Levitation: You don't use a spell slot when casting levitate on yourself
+• Cursed Blade: You deal Cha mod extra necrotic damage with your pact weapon
+Fighter Features:
+• Fighting Style - Archery: +2 to attack with ranged weapons
+• Heal 1d10 + level hit points as a bonus action (once between rests)
+• Take an extra action once between rests
+• Fighter Archetype: Champion
+• Crit on 19
+⊠Light Armor
+Light Armor, Medium Armor, Shields
+⊠Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
+Simple Weapons, Martial Weapons
+⊠Thieves Tools (+11)
+⊠Common
+Elvish 
+Deep Speech 
+Thieves Cant 
+⊠
+Bolts x120
+Acid vial x 5
+Potion of Healing x3
+Potion of Flying x1
+Thieves Tools 
+Healer's Kit (x 10 uses) 
+Backpack, Chest
+Hammer
+Pitons (bag of 4) x 10, Wooden stake x3
+Rations (1 day) x 10
+Rope (50', silk) x 5
+Rope (50' hemp) 
+Waterskins x 1
+Malachite Orb (Arcane Focus)
+Holy Symbol
+Holy water x10
+Flask of Oil x15
+Torches x13
+Hooded Lantern (30ft bright light) 
+Manacles
+Steel mirror
+Charm of Heroism x1
+Superior Healing x1
+Supreme Healing x3
+
+Purple evil psychic crystal
+
+
+A small black book that cannot be written in. 
+Ritual Book (Destroyed) ⊠Esselios (Raven,familiar,tiny beast,unaligned)
+
+AC: 12  HP 1  Speed 10 ft., fly 50 ft.
+STR     DEX       CON     INT      WIS         CHA
+2 (−4)  14 (+2)  8 (−1)  4 (−3)  12 (+1)   6 (−2)
+
+Init +2, Perception +3, Passive Perception 13
+Languages: Common, Orcish, Elvish
+Grants advantage on checks regarding Orc history, religion, and culture.
+
+Mimicry. The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+*He sometimes gets moody and petulant, muttering to himself in a language no one understands - even through the use of comprehend languages 
+
+Inventory (Pouch):
+Potion of Healing x1
+1x vial
+Soap
+Flask (cheap brandy) 
+Candle x5
+Chalk
+
+
+Cloak of Protection (+1 AC, +1 save, +2 init, attn)
+
+You gain a +1 bonus to AC and saving throws while you wear this cloak. Additionally, this cloak provides a +2 to initiative. 
+
+
+Stonespeaker Crystal (attn)  x10
+This quartz necklace gives you advantage on Intelligence (Investigation) checks while it is on your person.
+
+The crystal has 10 charges. While holding it, you can use an action to expend charges to cast spells: speak with animals (2 charges), speak with dead (4 charges), or speak with plants (3 charges).
+
+When you cast a divination spell, you can use the crystal in place of one material component that would normally be consumed by the spell, at a cost of 1 charge per level of the spell. The crystal is not consumed when used in this way.
+
+The crystal regains 1d6+4 expended charges daily at dawn. If you expend the crystal’s last charge, roll a d20. On a 1, the crystal vanishes, lost forever.
+
+
+Glamoured Studded leather armor (13AC)
+
+While wearing this armor, you gain a +1 bonus to AC.
+You can also use a bonus action to speak the armor's command word and cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. The illusory appearance last until you use this property again or remove the armor.
+
+Any illusion of normal clothing and other types of armor created by this item can appear only to be of the finest quality. No matter what form it takes, when you wear this item, your appearance draws the eye of those around you. In its natural state, this armor is tight and immodestly cut.
+
+Rod of the Pact Keeper +2
+Requires Attunement by a Warlock.
+Rare (+2)
+
+While holding this rod, you gain a bonus to spell attack rolls and to the saving throw DCs of your warlock spells. The bonus is determined by the rod’s rarity.
+
+In addition, you can regain 1 warlock spell slot as an action while holding the rod. You can’t use this property again until you finish a long rest.
+
+Staff of Power
+
+Staff, very rare (requires attunement by a sorcerer, warlock, or wizard)
+
+X20 charges 
+
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
+
+The staff has 20 charges for the following properties. The staff regains 2d8 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses all other properties. On a 20, the staff regains 1d8 + 2 charges.
+
+Power Strike: When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1d6 force damage to the target.
+
+Spells: While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: cone of cold (5 charges), fireball (5th-level version, 5 charges), globe of invulnerability (6 charges), hold monster (5 charges), levitate (2 charges), lightning bolt (5th-level version, 5 charges), magic missile (1 charge), ray of enfeeblement (1 charge), or wall of force (5 charges).
+
++1 Hand Crossbow (NaeNae) 
++3 Hand Crossbow
+Griffin Mount
+
+
+
+
+
+
+
+
+
+
+
+⊠Rogue 4, Warlock 12, Fighter 3⊠Human⊠Haunted One ⊠CN⊠I'm cultured and good-natured.  I am reservedly jovial, unless someone hits upon one of my many emotional triggers; then I'm sullen and morose. I also like to dance for some reason. ⊠I must save mankind from this...thing. It's time to kill a god. ⊠My companions have brought me back from the brink. I owe them everything and I would do anything for them. ⊠I know I am terribly, terribly insane. But not in a bad way. Mostly. You'd hardly even notice. Usually. 
+
+I take trophies and adorn myself with them. ⊠Freidrich N. ⊠Rogue 4, Warlock 12, Fighter 3⊠0⊠2⊠0⊠4449⊠0⊠218230</noteList>
+<hitDiceList>2⊠16⊠8⊠16⊠3⊠10⊠3</hitDiceList>
+<classResource>-1⊠-1⊠-1⊠-1⊠-1⊠-1⊠1⊠2⊠11⊠3⊠4⊠5</classResource>
+</character>
